@@ -1,0 +1,29 @@
+{
+  "name": "base64-angular",
+  "version": "1.0.0",
+  "authors": [
+    "Paulo Melo <paulo@goclip.com.br>"
+  ],
+  "description": "Base64 encoding/decoding module for angular",
+  "main": "base64.angular.min.js",
+  "keywords": [
+    "base64",
+    "encoding",
+    "decoding",
+    "encode",
+    "decode",
+    "angularjs",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.10"
+  }
+}
